@@ -1,1 +1,0 @@
-import{u as o,e as n,f as u,c,d as s,t as l,a as i,F as m,o as p}from"./index-BRCRGQyi.js";const _=["src","alt"],h={__name:"ParamsView",setup(d){const r=o().store,e=n(),t=u(()=>r.find(a=>a.id==e.params.id));return(a,f)=>(p(),c(m,null,[s("h1",null,l(i(e).params.id),1),s("img",{src:t.value.image,alt:t.value.title},null,8,_)],64))}};export{h as default};
