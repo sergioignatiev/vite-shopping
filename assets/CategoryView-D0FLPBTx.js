@@ -1,1 +1,0 @@
-import{j as t,c as a,t as o,a as r,o as s}from"./index-CgeTaoov.js";const _={__name:"CategoryView",setup(n){const e=t();return(c,u)=>(s(),a("h1",null,"CATEGORY "+o(r(e).params),1))}};export{_ as default};
