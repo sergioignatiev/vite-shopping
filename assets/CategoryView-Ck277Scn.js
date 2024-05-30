@@ -1,1 +1,0 @@
-import{j as c,u,k as l,c as r,r as m,F as p,o as s}from"./index-z2dYHX-t.js";const i=["src","alt"],f={__name:"CategoryView",setup(_){const a=c(),o=u().store,n=l(()=>o.filter(t=>t.category==a.params.category));return(t,d)=>(s(!0),r(p,null,m(n.value,e=>(s(),r("img",{class:"inline w-[300px]",src:e.image,alt:e.id,key:e.id},null,8,i))),128))}};export{f as default};
