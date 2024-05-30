@@ -1,0 +1,1 @@
+import{u as r,c as s,a as t,t as a,b as n,F as o,o as c}from"./index-B0khrC_A.js";const i={__name:"ClientView",setup(u){const e=r().bascet;return(l,_)=>(c(),s(o,null,[t("h1",null,"Сумма :"+a(n(e).counter)+"$",1),t("h1",null,"Сумма :"+a(Math.round(n(e).counter*87))+"Руб",1)],64))}};export{i as default};
